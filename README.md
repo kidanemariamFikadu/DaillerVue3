@@ -18,7 +18,7 @@ To install the module, run the following command in your project's root director
 First clone this repository and cd into it.
 
    ```
-   git clone https://github.com/kidanemariamFikadu/DaillerVue3.git
+   git clone https://github.com/kidanemariamFikadu/DiallerVue3.git
    ```
 
 ## live demo 
