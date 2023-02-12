@@ -18,8 +18,7 @@ To install the module, run the following command in your project's root director
 First clone this repository and cd into it.
 
    ```
-   $ git clone https://github.com/kidanemariamFikadu/DaillerVue3.git
-   $ cd browser-dialer-vue
+   git clone https://github.com/kidanemariamFikadu/DaillerVue3.git
    ```
 
 
