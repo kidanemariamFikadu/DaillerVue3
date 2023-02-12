@@ -130,7 +130,7 @@ export default {
         {
           id: 1,
           direction: "outgoing",
-          phone: "+254796671443",
+          phone: "+14155552222",
           startTime: "2023-02-01T12:30:00.000Z",
           endTime: "2022-12-01T12:30:00.000Z",
           duration: "30",

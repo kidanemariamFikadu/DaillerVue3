@@ -1,24 +1,27 @@
-# t
+# Vue3 Dialer UI
 
-## Project setup
-```
-yarn install
-```
+A modular and customizable dialer UI for your Vue3 projects.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Features
 
-### Compiles and minifies for production
-```
-yarn build
-```
+- Keypad with numerical buttons and call control buttons
+- Call history to keep track of past calls
+- Material icons for a stylish and modern look
 
-### Lints and fixes files
-```
-yarn lint
-```
+## Installation
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+To install the module, run the following command in your project's root directory:
+
+
+## Usage
+
+First clone this repository and cd into it.
+https://github.com/kidanemariamFikadu/DaillerVue3.git
+
+
+
+## Contributing
+Contributions are welcome! If you have an idea for a new feature or found a bug, feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT license.
