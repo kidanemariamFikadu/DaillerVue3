@@ -21,7 +21,8 @@ First clone this repository and cd into it.
    git clone https://github.com/kidanemariamFikadu/DaillerVue3.git
    ```
 
-
+## live demo 
+https://codesandbox.io/s/github/kidanemariamFikadu/DaillerVue3
 
 ## Contributing
 Contributions are welcome! If you have an idea for a new feature or found a bug, feel free to open an issue or submit a pull request.
