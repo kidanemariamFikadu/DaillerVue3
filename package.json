@@ -1,5 +1,5 @@
 {
-  "name": "vue-3",
+  "name": "kido-dialler",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,7 +12,9 @@
     "@fortawesome/free-solid-svg-icons": "6.2.1",
     "@fortawesome/vue-fontawesome": "3.0.3",
     "libphonenumber-js": "1.10.18",
-    "vue": "3.2.45"
+    "moment": "^2.29.4",
+    "vue": "3.2.45",
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
